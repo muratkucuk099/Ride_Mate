@@ -1,6 +1,7 @@
-# darkness_of_japanese
+# RIDE MATE
 
 A new Flutter project.
+# If yo mant to see how to works that code, you can watch youtube video https://youtube.com/shorts/4hkLzqS0wrI
 
 ## Getting Started
 
